@@ -1,7 +1,6 @@
-# m-bioinfo-uam
 # 🧠 Análisis de Señales EEG en Envejecimiento Frágil
 
-**Trabajo Fin de Máster - Universidad [Tu Universidad]**  
+**Trabajo Fin de Máster - Universidad Autónoma de Madrid**  
 **Título:** *Análisis de Señales EEG para Evaluar los Efectos de Intervenciones con Ejercicio y tDCS sobre Envejecimiento Frágil*  
 **Autor:** Alberto Peces Contreras   
 **Tutor(es):** Ángela Fernández Pascual y Carlos Mº Alaíz Gudín
