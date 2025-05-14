@@ -3,7 +3,7 @@
 **Trabajo Fin de Máster - Universidad Autónoma de Madrid**  
 **Título:** *Análisis de Señales EEG para Evaluar los Efectos de Intervenciones con Ejercicio y tDCS sobre Envejecimiento Frágil*  
 **Autor:** Alberto Peces Contreras   
-**Tutor(es):** Ángela Fernández Pascual y Carlos Mº Alaíz Gudín
+**Tutor(es):** Ángela Fernández Pascual y Carlos Mº Alaíz Gudín   
 **Curso:** 2024/25
 
 ---
