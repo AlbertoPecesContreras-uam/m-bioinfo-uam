@@ -3,9 +3,9 @@
 
 **Trabajo Fin de Máster - Universidad [Tu Universidad]**  
 **Título:** *Análisis de Señales EEG para Evaluar los Efectos de Intervenciones con Ejercicio y tDCS sobre Envejecimiento Frágil*  
-**Autor:** [Tu Nombre]  
-**Tutor(es):** [Nombre del tutor/a]  
-**Año:** 2025
+**Autor:** Alberto Peces Contreras   
+**Tutor(es):** Ángela Fernández Pascual y Carlos Mº Alaíz Gudín
+**Curso:** 2024/25
 
 ---
 
